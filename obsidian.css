@@ -407,8 +407,3 @@ a.tag:hover {
 .view-content {
     height: 100%;
 }
-
-/* collapsing sidebars */
-.app-container.is-left-sidedock-collapsed .side-dock.mod-left:not(:hover), .app-container.is-right-sidedock-collapsed .side-dock.mod-right:not(:hover) {
-    width: 0px !important;
-  }
